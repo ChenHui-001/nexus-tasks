@@ -1,7 +1,3 @@
-<div align="center">
-
-⚠️ 本项目由AI自动开发，仅用于AI开发体验和测试，所有bug与阿杆本人无关，出现问题属正常现象。请勿用于生产环境。
-
 # Nexus Tasks
 
 🚀 现代化的任务管理解决方案 | Modern Task Management Solution
@@ -9,8 +5,6 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Vue.js](https://img.shields.io/badge/Vue.js-3.x-green.svg)](https://vuejs.org/)
-
-</div>
 
 ## 📖 项目介绍
 
